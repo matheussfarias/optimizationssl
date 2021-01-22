@@ -47,7 +47,7 @@ ub = [3] * part_dim
 lb = [-3] * part_dim
 ############################################
 
-#Point Cloud
+#Cloud of Points
 R = np.linspace(1,10,10)#15
 phi = np.linspace(0, 2*np.pi, 10, endpoint=False)#24
 theta = np.linspace(0, np.pi/2, 5, endpoint=True)#12
