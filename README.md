@@ -10,9 +10,11 @@ Sound source localization (SSL) systems have applications in several areas, incl
 
 This repository contains the code used in the paper. 
 
-**pso.py** contains the implementation of Particle Swarm Optimization, used to as strategy to find the best configuration
+**pso** contains the implementation of Particle Swarm Optimization, used to as strategy to find the best configuration.
 
-**classes.py** and **mle.py** are imports with functions/classes that are used in the main code.
+**classes** and **mle** are imports with functions/classes that are used in the main code.
+
+**cloud_matches** contains the matching evaluation strategy between two arrays.
 
 ## Authors
 
